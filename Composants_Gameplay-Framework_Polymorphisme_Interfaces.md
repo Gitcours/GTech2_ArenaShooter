@@ -1,7 +1,7 @@
 # Cours Unreal Engine 5.6  
 ## Programmation C++ — Composants, Gameplay Framework, Polymorphisme & Interfaces  
 ---
-
+```xml
 <?xml version="1.0" encoding="utf-8" ?>
 <Configuration xmlns="https://www.unrealengine.com/BuildConfiguration">
     <BuildConfiguration>
@@ -9,6 +9,7 @@
         <bAllowUBALocalExecutor>false</bAllowUBALocalExecutor>
     </BuildConfiguration>
 </Configuration>
+```
 %APPDATA%\Unreal Engine\UnrealBuildTool\
 
 # MODULE 1 — Introduction à un Actor en C++  
